@@ -1,7 +1,7 @@
 
 # Fake-News-Detection
 
-Different models for fake new detection
+Different models for Fake News detection
 
 1- Bi Directional Gated Recurrent Neural Networks (Bi-GRU)
 
